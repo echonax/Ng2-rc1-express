@@ -1,4 +1,4 @@
-# Angular-2-Beta-and-test-framework
+# Angular-2-rc1-framework
 
 *install node package manager   (http://blog.npmjs.org/post/85484771375/how-to-install-npm)  
 
